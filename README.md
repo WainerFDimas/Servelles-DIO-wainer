@@ -138,6 +138,6 @@ resources:
       - http:
           path: /items/{id}
           method: put
-  ```
+  ``` 
 
 
