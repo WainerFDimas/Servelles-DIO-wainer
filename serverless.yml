@@ -63,4 +63,4 @@ resources:
               AttributeType: S
           KeySchema:
             - AttributeName: id
-              KeyType: HASH
+              KeyType: HASH 
